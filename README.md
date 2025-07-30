@@ -1,5 +1,15 @@
-## Hi there 👋
+## 👋 Hi there, this is Abdul Muqtader - a passionate AI/ML Enhusisast and a Student
 
+- 🎓 I'm currently pursuing my B.E in Information Sciece and Engineering at Sir M. Visvesvaraya Institute of Technology, with a Diploma in Computer Science nd Engineering. 
+- 🥇 I've completed a hands-on AI & ML Internship at Emberquest Pvt. Lmt., where I worked on Real-World Projects, Data Analysis, and Model Development.
+- 🛠️ My Skills are: Python, Java, HTML, JavaScript, React JS, SQL, Machine Learning, Deep Learning, Neural Networks and much more.
+- 🌱 I'm focused on up-honing my skills and experience little-by-little and explore the vast possibilities to be more creative and productive in various projects and gain experience.
+
+📫 Reach me at:
+ - 📧 E-mail: abdulmuqtader95@gmail.com
+ - 🔗 LinkedIn: https://linkedin.com/in/abdulmuqtader
+
+⚡ Fun fact: Being kind doesn't kill!
 <!--
 **AbdulMuqtader95/AbdulMuqtader95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
