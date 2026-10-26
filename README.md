@@ -1,26 +1,17 @@
-## 👋 Hi there, this is Abdul Muqtader - a passionate AI/ML Enhusisast and a Student
+## Hi, I'm Abdul Muqtader 👋
 
-- 🎓 I'm currently pursuing my B.E in Information Sciece and Engineering at Sir M. Visvesvaraya Institute of Technology, with a Diploma in Computer Science and Engineering. 
-- 🥇 I've completed a hands-on AI & ML Internship at Emberquest Pvt. Lmt., where I worked on Real-World Projects, Data Analysis, and Model Development.
-- 🛠️ My Skills are: Python, Java, HTML, JavaScript, SQL, Machine Learning, Deep Learning, Neural Networks and much more.
-- 🌱 I'm focused on up-honing my skills and experience little-by-little and explore the vast possibilities to be more creative and productive in various projects and gain experience.
+Final-year Information Science & Engineering student at Sir M. Visvesvaraya Institute of Technology, Bengaluru (VTU), with a Diploma in Computer Science & Engineering. I'm looking for software engineering roles, with a focus on backend development.
 
-📫 Reach me at:
- - 📧 E-mail: abdulmuqtader95@gmail.com
- - 🔗 LinkedIn: https://linkedin.com/in/abdulmuqtader
+### Experience
+- **Emberquest Pvt. Ltd.** – AI/ML intern: worked on real-world data analysis and model development projects.
 
-⚡ Fun fact: Being kind doesn't kill!
-<!--
-**AbdulMuqtader95/AbdulMuqtader95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm building
+- **[Personal Internet Archive](https://github.com/AbdulMuqtader95/Personal-Internet-Archive)** – Save web pages, extract their text, and search them by keyword or by meaning. FastAPI, SQLite FTS5, local embeddings, and a web UI.
 
-Here are some ideas to get you started:
+### Tech
+Java · Python · SQL · FastAPI · SQLite · HTML/JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+Working through DSA in Java and building projects daily.
+
+📫 [LinkedIn](https://linkedin.com/in/abdulmuqtader)
