@@ -12,6 +12,6 @@ Final-year Information Science & Engineering student at Sir M. Visvesvaraya Inst
 Java · Python · SQL · FastAPI · SQLite · HTML/JS
 
 ### Currently
-Working through DSA in Java and building projects.
+Working through DSA in Java and building projects. being busy 
 
 📫 [LinkedIn](https://linkedin.com/in/abdulmuqtader)
